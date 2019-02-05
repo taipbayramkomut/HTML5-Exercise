@@ -1,0 +1,91 @@
+header, main, nav, section {
+ display:block;
+} 
+
+html, body{
+  background-image: url(inci.jpg);
+  background-size:cover; 
+  height:auto;
+  width:100%;
+  padding:auto;
+  margin:auto;
+}
+
+
+.banner{
+  background-color: #C3DFF4;
+  
+}
+
+header {
+  width:100%;  
+  border: 1px solid black;
+  margin-left: auto;
+  margin-right: auto;
+  background-color:#D4E1E9;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 12px; 
+}
+
+nav {
+  background-color: #476E85;
+}
+
+
+
+li a {
+  color: yellow;
+  float:center;
+}
+
+li{
+  display: inline;
+  margin-left: 25px;
+  margin-right: 15px;
+  font-size: 20px;
+  font-variant: small-caps;
+  font-weight: bold;
+}
+
+section {
+  background-color: #F4F9FC;
+  margin-top: 30px;
+  padding: 5px;
+  color: black;
+}
+
+article{
+  background-color: white;
+  margin-top: 5px;
+  padding: 10px 10px;
+  color: black;
+}
+
+main {
+  width: 900px;
+  float: center;
+  margin-bottom: 10px;
+}
+
+aside {
+  clear: both;
+  float:right;
+  background-color:#F4F9FC;	
+  color:black;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+footer {
+  clear: both; 
+  color:white;  
+  padding: 5px 20px;
+}
+  
+  
+  
+
+
+
+  
+  

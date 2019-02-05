@@ -1,0 +1,64 @@
+header, main, section {
+ display:block;
+} 
+
+html, body{
+  background-color:#0994C7;
+}
+
+.banner{
+  background-color: #C3DFF4;
+  color: white;
+  padding: 100px 100px;
+}
+
+header {
+  width:900px;
+  border: black;
+  margin-left: auto;
+  margin-right: auto;
+  background-color:#F4F9FC;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 15px; 
+}
+
+
+section {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #F4F9FC;
+  border:10px black;
+  margin-top: 30px;
+  padding: 30px;
+  color: black;
+}
+
+
+main {
+  width: 900px;
+  float: center;
+  margin-bottom: 10px;
+}
+
+aside {
+  clear: both;
+  float:center;
+  border:30px black;
+  color:black;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+footer {
+  clear: both; 
+  color:white;  
+  padding: 5px 20px;
+}
+  
+  
+  
+
+
+
+  
+  

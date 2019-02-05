@@ -1,0 +1,40 @@
+header, aside{
+ display:block;
+} 
+
+html, body{
+  background-color: #FCF9FA;
+  color: black;
+  padding:0;
+  margin:0;
+}
+
+.banner{
+  background-color: #C3DFF4;
+  color: white;
+  padding: 50px 100px;
+}
+
+header {
+  width:100%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color:#C3DFF4;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 15px; 
+}
+
+
+aside {
+  background-color:##FCF9FA;
+  float:center;  
+  color:black;
+  margin-left:200 ;
+  margin-right:200;
+}
+
+footer {
+  clear: both; 
+  color:black;  
+  padding: 5px 20px;
+}
